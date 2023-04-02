@@ -6,7 +6,7 @@ import MovieCard from "./MovieCard";
 import "./App.css";
 import SearchIcon from "./search.svg";
 // 39e481be
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=39e481be";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=39e481be";
 
 const movie = {
   Title: "One Piece: Stampede",
